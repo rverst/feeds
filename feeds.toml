@@ -11,3 +11,10 @@ url = "https://en.wikivoyage.org/wiki/Main_Page"
 entrySelector = ".jcarousel-wrapper .jcarousel-item"
 titleSelector = "h2"
 linkSelector = "h2 a"
+
+[wn]
+title = "Westfälische Nachrichten | Gronau"
+url = "https://www.wn.de/muensterland/kreis-borken/gronau"
+entrySelector = ".jcarousel-wrapper .jcarousel-item"
+titleSelector = "h2"
+linkSelector = "h2 a"
